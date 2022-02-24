@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commune Concilium tent' in camera Guild-hall civitat' London die Lunae 29[o] die Apri'is Anno Domini 1667 ... an act declaring what streets and streight and narrow passages within the city of London and liberties thereof, burnt down in the late dismall fire, shall be enlarged and made wider, and to what proportion, for notification thereof to the owners or parties interested in the ground to be taken away for the said enlargements.</title>
+            <title>Act declaring what streets and streight and narrow passages within the city of London and liberties thereof, burnt down in the late dismall fire, shall be enlarged and made wider and to what proportion</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48991</idno>
+            <idno type="STC">Wing L2853</idno>
+            <idno type="STC">ESTC R21411</idno>
+            <idno type="EEBO-CITATION">12406246</idno>
+            <idno type="OCLC">ocm 12406246</idno>
+            <idno type="VID">61398</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61398)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 767:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Commune Concilium tent' in camera Guild-hall civitat' London die Lunae 29[o] die Apri'is Anno Domini 1667 ... an act declaring what streets and streight and narrow passages within the city of London and liberties thereof, burnt down in the late dismall fire, shall be enlarged and made wider, and to what proportion, for notification thereof to the owners or parties interested in the ground to be taken away for the said enlargements.</title>
+                  <title>Act declaring what streets and streight and narrow passages within the city of London and liberties thereof, burnt down in the late dismall fire, shall be enlarged and made wider and to what proportion</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>J. Flesher,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>The bracketed "o" is in superscript in the title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>City of London (England). --  Act for rebuilding the city of London.</term>
+               <term>Streets --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:61398:1" rendition="simple:additions"/>
+            <head>Commune Concilium tent' in Camera <hi>Guild-hall</hi> Civitat' <hi>London</hi> die Lunae 29<hi rend="sup">o</hi> die <hi>Aprilis,</hi> Anno Domini 1667, Anno ue Regni Domini noſtri CAROLI Secundi, Dei Gratia, <hi>Angliae, Scotiae, Franciae</hi> &amp; <hi>Hiberniae</hi> Regis, Fidei Defenſor', &amp;c. decimonono, Coram <hi>Willielmo Bolton</hi> Milit', Majore Civitat' <hi>London, Thoma Adams</hi> &amp; <hi>Richardo Brown,</hi> Militibu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; Baronettis, Aldermannis, <hi>Johanne Frederick</hi> Milite, Aldermanno, <hi>Johanne Robinſon,</hi> Milite &amp; Baronett', &amp; Locum-tenente Turris Civit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t' <hi>London, Johanne Lawrence, Thoma Bludworth, Roberto Hanſon,</hi> &amp; <hi>Willielmo Hooker,</hi> Milit' &amp; Aldermannis, <hi>Johanne Moore</hi> Armigero, Aldermanno, <hi>Roberto Viner,</hi> Milite &amp; Baronetto, &amp; <hi>Joſepho Sheldon</hi> Milite, Alde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mannis ac Vicecomitibus ejuſdem Civitat', necnon majore parte Communiariorum de Com<g ref="char:EOLhyphen"/>muni Concilio ejuſdem Civitat' tunc &amp; ibidem aſſemblat'. An ACT declaring what Streets and ſtreight and narrow Paſſages within the City of <hi>London</hi> and <hi>Liberties</hi> thereof, burnt down in the late diſmall FIRE, ſhall be enlarged and made wider, and to what proportion; for notification thereof to the Owners o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Parties intereſſed in the Ground to be taken away for the ſaid Enlargements.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS in the Act of this preſent Parliament for <hi>Rebuilding the City of LONDON,</hi> the Lord Mayor Aldermen, and Commons of the ſaid City for the time being, in Common Council aſſembled, are impowered and required to en<g ref="char:EOLhyphen"/>large all and every the Streets and Places hereafter mentioned, where and in ſuch manner as there ſhall be cauſe, by and with the approbation of his <hi>MAJE<g ref="char:EOLhyphen"/>STY,</hi> and not otherwiſe. That is to ſay, The Street called <hi>Fleetſtreet,</hi> from the place where the <hi>Grey-hound Tavern</hi> ſtood, to <hi>Ludgate,</hi> and from thence to St. <hi>Paul's Church-yard;</hi> the Street leading from the Eaſt end of St. <hi>Paul's Church</hi> into <hi>Cheapſide;</hi> the Street and Paſſage at the Eaſt end of <hi>Cheapſide</hi> leading into the <hi>Poultrey;</hi> the Street and Paſſage out of the <hi>Poultrey</hi> leading into the Weſt end of <hi>Cornhill,</hi> at or near the place late called <hi>the Stocks;</hi> the Street called <hi>Blow-bladder-ſtreet,</hi> leading from the Weſt end of <hi>Cheapſide</hi> towards <hi>Newgate-Market;</hi> and to enlarge the Street and Paſ<g ref="char:EOLhyphen"/>ſage from thence towards <hi>Newgate-Market,</hi> by laying the Ground where the <hi>Middle Row</hi> in the <hi>Sham<g ref="char:EOLhyphen"/>bles</hi> there lately ſtood into the ſaid Street; and in like manner to enlarge the Paſſage from <hi>Newgate-Market</hi> towards <hi>Newgate,</hi> by laying the Ground of the late four Houſes between <hi>Warwick-Lane</hi> end in <hi>Newgate-Market</hi> and the late <hi>Bell Inne</hi> there into the Street; and in like manner to enlarge, as there ſhall be cauſe, the Lane called <hi>Ave Marie Lane,</hi> leading from <hi>Pater-noſter-Row</hi> to <hi>Ludgate-ſtreet;</hi> and the Street or Paſſage at the end of St <hi>Martin le Grand</hi> towards <hi>Blow-bladder-ſtreet</hi> aforeſaid; and alſo the Paſſage from St. <hi>Magnus Church</hi> to the <hi>Conduit</hi> in <hi>Grace-church-ſtreet;</hi> and the North end of <hi>Grace-church-ſtreet;</hi> and alſo <hi>Thameſtreet,</hi> from the Weſt corner of St. <hi>Magnus Church</hi> aforeſaid to the <hi>Tower-Dock;</hi> and to enlarge <hi>Old Fiſhſtreet,</hi> by laying the <hi>Middle Row</hi> there into the Street?</p>
+            <p>Be it therefore Enacted, Ordained and Declared, by the Right Honourable the Lord Mayor, the Right Worſhipful the Aldermen his Brethren, and the Commons in this Common Council aſſem<g ref="char:EOLhyphen"/>bled, and by the Authority of the ſame, That the Streets <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Places before mentioned ſhall be enlarged as hereafter followeth, his <hi>MAJESTY</hi> having already given his Gracious Appr<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> thereof: that is to ſay,</p>
+            <p>That the ſaid Street called <hi>Fleetſtreet,</hi> from the place where the <hi>Grey-hound Tavern</hi> ſtood to <hi>Ludgate,</hi> and from thence into St. <hi>Paul's Church-yard,</hi> ſhall be farther Enlarged to be of the Breadth of For<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> five Foot.</p>
+            <p>That the ſaid Street leading from the Eaſt end of St. <hi>Paul's Church-yard</hi> into <hi>Cheapſide,</hi> ſhall be farther Enlarged to be of the ſame Breadth of Forty five Foot.</p>
+            <p>That the ſaid Street and Paſſage at the Eaſt end of <hi>Cheapſide,</hi> leading into the <hi>Poultrey,</hi> ſhall be <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>larged to be on a level Line Forty Foot broad.</p>
+            <p>That the ſaid Street and Paſſage out of the <hi>Poultrey</hi> leading into the Weſt end of <hi>Cornhill,</hi> ſhall be Enlarged to be of the Breadth of Forty Foot.</p>
+            <p>That the ſaid Street called <hi>Blow-bladder-ſtreet,</hi> into <hi>Cheapſide,</hi> ſhall be Enlarged to be of the Breadth of Forty Foot.</p>
+            <p>That the ſaid Lane called <hi>Ave Marie Lane</hi> ſhall be Enlarged to be of the Breadth of Eighteen Foot.</p>
+            <p>That the Street from <hi>Alderſgate</hi> through St. <hi>Martin's le Grand</hi> into <hi>Blow-bladder-ſtreet,</hi> ſhall be Enlar<g ref="char:EOLhyphen"/>ged to be of the Breadth of Twenty four Foot.</p>
+            <p>That the Paſſage from St. <hi>Magnus Church</hi> to the <hi>Conduit</hi> in <hi>Grace-church-ſtreet,</hi> ſhall be Enlarged to be of the Breadth of Thirty five Foot.</p>
+            <p>That the North end of <hi>Grace-church-ſtreet,</hi> from <hi>Leaden-hall,</hi> ſhall be Enlarged to be of the ſame Breadth of Thirty five Foot.</p>
+            <p>That <hi>Thameſtreet,</hi> from the Weſt corner of St. <hi>Magnus Church</hi> aforeſaid, to <hi>Tower-Dock,</hi> ſhall be En<g ref="char:EOLhyphen"/>larged to be of the Breadth of Thirty Foot.</p>
+            <p>That the Ground where the <hi>Middle Row</hi> in the <hi>Shambles</hi> ſtood, and the Ground of the four late Houſes in <hi>Newgate-Market,</hi> between <hi>Warwick Lane</hi> end and the late <hi>Bell Inne</hi> there, and alſo the Ground where the <hi>Middle Row</hi> in <hi>Old Fiſhſtreet</hi> ſtood, ſhall be laid into the Streets, according to the ſaid Act of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <pb facs="tcp:61398:2"/>
+            <p>And whereas in the ſame Act it is contained, that the ſaid Lord Mayor, Aldermen, and Commons in Common Council aſſembled, ſhall and may enlarge and make wider any other ſuch ſtreight and narrow Paſſages as are leſs then Fourteen Foot in Breadth, ſo as notice be given to the Ow<g ref="char:EOLhyphen"/>ners or Proprietors intereſſed in the Ground to be ſo taken for the Enlarging thereof, on or before the firſt day of <hi>May</hi> the next following, and whereas the ſaid Lord Mayor, Aldermen and Commons are alſo enabled to make, or cauſe to be made, a New Street, leading and extending from the <hi>Guild-hall</hi> of the ſame City into <hi>Cheapſide,</hi> of ſuch Breadth and wideneſs as they ſhall judge meet and convenient:</p>
+            <p>Be it farther Enacted, Ordained, and Declared, by the Authority aforeſaid, That there ſhall be a New Street made from the ſaid <hi>Guild-hall</hi> into <hi>Cheapſide,</hi> of the Breadth of Thirty ſix Foot.</p>
+            <p>That <hi>Pannier Alley,</hi> between <hi>Pater-noſter-Row</hi> and <hi>Newgate-Market,</hi> ſhall be Enlarged to be of the Breadth of Nine Foot, and paved with Free-ſtone for a Foot-paſſage.</p>
+            <p>That St. <hi>Paul's Alley,</hi> between <hi>Pater-noſter-Row</hi> and St. <hi>Paul's Church-yard,</hi> ſhall be alſo Enlarged to be of the ſame Breadth of Nine Foot, and paved with Free-ſtone for a Foot-paſſage.</p>
+            <p>That <hi>Piſſing Alley</hi> and <hi>Queens-head Alley</hi> in <hi>Pater-noſter-Row</hi> ſhall be ſeverally Enlarged to be of the Breadth of Nine Foot.</p>
+            <p>That <hi>Grocers Alley,</hi> in the <hi>Poultrey,</hi> ſhall be Enlarged to be of the Breadth of Eleven Foot.</p>
+            <p>That <hi>Scalding Alley,</hi> there, ſhall be Enlarged to be of the Breadth of Nine Foot.</p>
+            <p>That <hi>Old-Swan Alley,</hi> in <hi>Thameſtreet,</hi> ſhall be Enlarged to be of the Breadth of Fourteen Foot.</p>
+            <p>That <hi>Love Lane,</hi> in <hi>Thameſtreet,</hi> ſhall be Enlarged to be of the Breadth of Ten Foot.</p>
+            <p>That the Croſs Lane between St. <hi>Dunſtan's-hill</hi> and <hi>Harp Lane</hi> ſhall be Enlarged to be of the Breadth of Fourteen Foot.</p>
+            <p>And be it farther Enacted, Ordained, and Declared by the Authority aforeſaid, That all ſtreight and narrow Paſſages not Fourteen Foot broad which have been or ſhall be ſtaked out by the Sur<g ref="char:EOLhyphen"/>veyour hereunto appointed by this Court, to the Breadth of Fourteen Foot, ſhall be Enlarged accor<g ref="char:EOLhyphen"/>dingly and in ſuch manner as they now are or ſhall be ſtaked and ſet out.</p>
+            <p>And this Court is farther conſenting and deſirous that all other ſtreight and narrow Paſſages, not before particularly mentioned, (which ſhall be found convenient to be Enlarged for the common <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>neſit and accommodation, and ſhall receive his <hi>MAJESTIE's</hi> order and Approbation) ſhall and may be En<g ref="char:EOLhyphen"/>larged and made wider and otherwiſe altered before the twentieth day of <hi>May</hi> now next enſuing, as ſhall be fitting for the Beauty, Ornament and Conveniency thereof, and ſtaked and ſet out accor<g ref="char:EOLhyphen"/>dingly.</p>
+            <p>And that all perſons concerned or intereſſed in any Ground ſo taken or to be taken away, for the ſaid Enlargements of any of the ſaid Streets, may take notice thereof according to the ſaid <hi>Act of Par<g ref="char:EOLhyphen"/>liament.</hi>
+            </p>
+            <p>It is Ordered that this Act and Declaration be forthwith Printed and Publiſhed in all convenient places within this City and Liberties.</p>
+            <closer>
+               <signed>Avery.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> LONDON</p>
+         </div>
+      </back>
+   </text>
+</TEI>
